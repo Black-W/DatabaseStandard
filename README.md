@@ -19,3 +19,4 @@ This repo contains Public Releases and Offical Resources from XMU'18 OOAD Databa
 | 3.0 | 2018.12.25 | 新增表：<br>klass_team <br> team_student <br> <br>修改表：<br> strategy相关的表，详见策略说明 <br> <br> 录入数据:<br>OOAD、J2EE、.NET、SE四门课程(SE实际上是2门)<br>OOAD和J2EE的所有讨论课<br>OOAD、J2EE、SE的所有班级和学生名单<br> OOAD作为主课程，创建所有同学的分组信息（用l.xmu.edu.cn网上的信息创建，有的小组没写队名，用3-2这种代替队名）<br>OOAD和J2EE共享分组<br>讨论课分数，提问分数，报告分数 <br>OOAD前3条组队策略（策略一改为王、林课程冲突）<br>学生、教师、管理员账号<br>其他相关数据 <br> | 数据库标准组  |
 | 3.1 | 2018.12.25 | 修改表：<br> team表新增klass_serial字段<br> <br> 录入数据:<br>OOAD和SE(王、林两门课)共享分组<br>team.klass_serial<br> <br> | 数据库标准组  |
 | 3.2 | 2018.12.25 | 修改表：<br> team.klass_serial字段允许为空，各组自己决定是否使用<br>attendance表的report和ppt的name和url长度分别改为50和500<br><br>修改数据：<br> team_strategy的第三条strategy_id改为2<br> team_student表增加了1-12小组的成员(新增team_id为14的记录)<br>course_member_limit_strategy.max_member改为5<br>删除策略表中2个字段共同作为主键的自增id| 数据库标准组  |
+| 3.3 | 2019.1.2 | 补充数据：<br>seminar_score表和question表补充缺失数据<br> | 数据库标准组  |
