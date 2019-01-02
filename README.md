@@ -20,3 +20,4 @@ This repo contains Public Releases and Offical Resources from XMU'18 OOAD Databa
 | 3.1 | 2018.12.25 | 修改表：<br> team表新增klass_serial字段<br> <br> 录入数据:<br>OOAD和SE(王、林两门课)共享分组<br>team.klass_serial<br> <br> | 数据库标准组  |
 | 3.2 | 2018.12.25 | 修改表：<br> team.klass_serial字段允许为空，各组自己决定是否使用<br>attendance表的report和ppt的name和url长度分别改为50和500<br><br>修改数据：<br> team_strategy的第三条strategy_id改为2<br> team_student表增加了1-12小组的成员(新增team_id为14的记录)<br>course_member_limit_strategy.max_member改为5<br>删除策略表中2个字段共同作为主键的自增id| 数据库标准组  |
 | 3.3 | 2019.1.2 | 补充数据：<br>seminar_score表和question表补充缺失数据<br> | 数据库标准组  |
+| 3.4 | 2019.1.2 | 修改数据：<br>round_score表部分错误数据修正<br> | 数据库标准组  |
