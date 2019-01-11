@@ -1,6 +1,9 @@
 # XMU'18 OOAD Database Working Group
 This repo contains Public Releases and Offical Resources from XMU'18 OOAD Database Working Group
 
+## 界面标准组成员
+* 王振伟 王安特 宋文静 矫丽瑶 赵涛 袁江华 谈雪
+
 ## Resources
  * [sql脚本](https://github.com/Black-W/DatabaseStandard/blob/master/sql/init.sql)
  * [数据字典](https://github.com/Black-W/DatabaseStandard/blob/master/%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8.md)
